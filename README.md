@@ -2,9 +2,7 @@
 
 The main objective of this data science personal project portfolio is to demonstrate my skills in solving business challenges through my knowledge and tools of Data Science.
 
-<p align='center'>
-    <img src=''<
-</p>
+
 
 # Taiz Alves
 
@@ -18,7 +16,7 @@ Throughout my career, I have gained experience in programming languages such as 
 
 In this resposity I have developed solutions for some market and sales problems such as customers segmentation and churn , Test A/B, a simple recomendation system for Market Basket Analysis using Apriori and some market KPI's.<smaller>Some solutions are parte of differents courses from DataCamp but always with some personnel addition.\*\*some are still in progress<smaller/>
 
-Please check my others repositories for solutions using [classification](https://github.com/TaizAlves/cross_sell) and [regression] (https://github.com/TaizAlves/ml-real-state-predictive-modeling) models as many others business solution´s projects.
+Please check my others repositories for solutions using [classification](https://github.com/TaizAlves/cross_sell) and [regression](https://github.com/TaizAlves/ml-real-state-predictive-modeling) models as many others business solution´s projects.
 
 The details of each solution are described in the projects below.
 
@@ -37,7 +35,7 @@ The details of each solution are described in the projects below.
 **Links:**
 
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/taiz-alves-664a081)
-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taizralves@gmail.com)]
+
 
 ## Data Science Projects:
 
