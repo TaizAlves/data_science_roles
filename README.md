@@ -14,9 +14,10 @@ Additionally, in 2022, I completed a postgraduate degree in Artificial Intellige
 
 Throughout my career, I have gained experience in programming languages such as Python, JavaScript and SQL, as well as in data analysis and visualization tools like PowerBI. In addition, I have developed strong skills in Numpy, Pandas and statistics.
 
-In this resposity I have developed solutions for some market and sales problems such as customers segmentation and churn , Test A/B, a simple recomendation system for Market Basket Analysis using Apriori and some market KPI's.<smaller>Some solutions are parte of differents courses from DataCamp but always with some personnel addition.\*\*some are still in progress<smaller/>
+In this resposity I have developed solutions for some business problems such as credit risk, customers segmentation and churn , Test A/B, a simple recomendation system for Market Basket Analysis using Apriori , some market KPI's.
+<smaller>Some solutions are parte of differents courses from DataCamp but always with some personnel addition.\*\*some are still in progress<smaller/>
 
-Please check my others repositories for solutions using [classification](https://github.com/TaizAlves/cross_sell) and [regression](https://github.com/TaizAlves/ml-real-state-predictive-modeling) models as many others business solution´s projects.
+Please check my others repositories for solutions using [classification] and [regression](https://github.com/TaizAlves/ml-real-state-predictive-modeling) models as many others business solution´s projects.
 
 The details of each solution are described in the projects below.
 
@@ -38,6 +39,11 @@ The details of each solution are described in the projects below.
 
 
 ## Data Science Projects:
+### [Credit Risk](https://github.com/TaizAlves/data_science_roles/tree/master/Machine_Learning/credit_risk)
+Applied machine learning and business rules to reduce risk and ensure profitability
+Classification problem to minimize credit or loan risks
+
+
 
 ### [customers segmentation](https://github.com/TaizAlves/data_science_roles/blob/master/Machine_Learning/RFM.ipynb)
 
